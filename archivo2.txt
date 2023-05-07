@@ -1,1 +1,2 @@
 Segundo de texto con extensión .txt
+Segunda linea de texto
